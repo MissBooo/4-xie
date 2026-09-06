@@ -11,6 +11,7 @@ Beneficiary POV — focused on personal preferences, visibility controls, and un
 Both MVPs share the same philosophy and demo data (fictional elderly woman "Fatima" and her care circle), but expose different workflows and UI priorities.
 
 **Features**
+
 Shared principles
 Modern, warm, trustworthy UI (desktop-first, responsive).
 
@@ -21,6 +22,7 @@ Accessibility-friendly: large typography, strong contrast, clear buttons.
 Core message: WhatsApp helps families talk about care. Amanah helps families coordinate it.
 
 **Caregiver MVP**
+
 Today's Care: overview of tasks, workload, and sharing status.
 
 Care Handoff: record what happened, define next action, assign to a family member/caregiver.
@@ -30,6 +32,7 @@ Next Caregiver View: immediate visibility of last update + next responsibility.
 Lightweight preference conflict detection (demo) when scheduling around known routines.
 
 **Beneficiary MVP**
+
 Her Preferences: language, caregiver gender, food, routine, appointments, personal space.
 
 Who can see what?: fine-grained visibility rules per family member/caregiver.
@@ -44,8 +47,6 @@ Frontend: React + Tailwind CSS (generated with v0 / AI tooling).
 State: local state + localStorage for simple persistence during the demo.
 
 Deployment: Vercel (public URLs for each MVP).
-
-No complex backend, auth, or real-time features in this hackathon version.
 
 Project access
 Use the live demos below for your presentation and testing. Replace these placeholder links with your actual deployed MVPs.
