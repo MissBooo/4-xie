@@ -68,3 +68,9 @@ Live demo: https://amanah-beneficiary.vercel.app/
 - Switch to the Beneficiary MVP and open Her Preferences to show how care adapts to the person.
 
 - Open Who can see what? to demonstrate privacy-by-design and least-privilege access.
+
+# By 
+- Halima Bourdi
+- Hajar Ed Dahir
+- Chaimaa Mhab
+- Zineb Mhab
