@@ -1,4 +1,4 @@
-## Amanah — Care without taking away dignity
+# Amanah — Care without taking away dignity
 
 Amanah is a family elderly-care coordination application designed for Muslim families. It replaces fragmented WhatsApp threads and phone calls with one shared care circle, keeping the elderly person's preferences, independence and consent at the center.
 
@@ -69,7 +69,7 @@ Live demo: https://amanah-beneficiary.vercel.app/
 
 - Open Who can see what? to demonstrate privacy-by-design and least-privilege access.
 
-# By 
+## By 
 - Halima Bourdi
 - Hajar Ed Dahir
 - Chaimaa Mhab
