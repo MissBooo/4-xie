@@ -4,8 +4,6 @@ Amanah is a family elderly-care coordination application designed for Muslim fam
 
 The elderly person is not the object of care. They are a participant in their care.
 
-This repository contains two hackathon MVPs built in ~4 hours:
-
 Caregiver POV — focused on recording visits, creating handoffs, and seeing assigned tasks.
 
 Beneficiary POV — focused on personal preferences, visibility controls, and understanding how care is coordinated around them.
